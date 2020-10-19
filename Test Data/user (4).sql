@@ -1,0 +1,2 @@
+insert into user (UserID, FirstName, LastName, Email, UserGroupID, Title, CreatedAt, UpdatedAt) values (27, 'testuser', null, 'gbisley0@samsung.com', 1, null, '2020-01-02 23:08:19', '2019-12-13 05:10:02');
+insert into user (UserID, FirstName, LastName, Email, UserGroupID, Title, CreatedAt, UpdatedAt) values (28, 'testuser', null, 'rconquer1@purevolume.com', 1, null, '2019-11-27 11:42:13', '2020-11-10 03:10:02');

@@ -1,0 +1,5 @@
+insert into user (UserID, FirstName, LastName, Email, UserGroupID, Title, CreatedAt, UpdatedAt) values (22, 'Adorne', 'Shillam', 'ashillam0@theglobeandmail.com', 3, 'Trainee', '2020-09-14 15:31:50', '2020-01-08 21:51:09');
+insert into user (UserID, FirstName, LastName, Email, UserGroupID, Title, CreatedAt, UpdatedAt) values (23, 'Cinnamon', 'St. Louis', 'cstlouis1@ycombinator.com', 3, 'Trainee', '2020-03-05 17:41:51', '2020-07-10 21:53:16');
+insert into user (UserID, FirstName, LastName, Email, UserGroupID, Title, CreatedAt, UpdatedAt) values (24, 'Chip', 'Hambrick', 'chambrick2@fc2.com', 3, 'Trainee', '2020-08-23 00:35:33', '2020-08-17 02:19:25');
+insert into user (UserID, FirstName, LastName, Email, UserGroupID, Title, CreatedAt, UpdatedAt) values (25, 'Jaime', 'Leadston', 'jleadston3@smugmug.com', 3, 'Trainee', '2020-10-09 06:30:58', '2020-07-06 03:08:11');
+insert into user (UserID, FirstName, LastName, Email, UserGroupID, Title, CreatedAt, UpdatedAt) values (26, 'Martino', 'Maestrini', 'mmaestrini4@bloglines.com', 3, 'Trainee', '2020-09-06 15:50:30', '2020-09-25 00:30:21');

@@ -1,0 +1,12 @@
+insert into logs (LogID, ProjectKey, TicketKey, Type, CreatedAt, UpdatedAt) values (12, 'BAC', 'BAC-1', 'Backup', '2020-08-30 04:52:35', '2020-09-14 18:28:37');
+insert into logs (LogID, ProjectKey, TicketKey, Type, CreatedAt, UpdatedAt) values (13, 'BAC', 'BAC-2', 'Backup', '2020-04-27 10:11:56', '2020-10-14 19:25:56');
+insert into logs (LogID, ProjectKey, TicketKey, Type, CreatedAt, UpdatedAt) values (14, 'BAC', 'BAC-3', 'Backup', '2019-11-23 17:18:13', '2019-12-18 14:11:14');
+insert into logs (LogID, ProjectKey, TicketKey, Type, CreatedAt, UpdatedAt) values (15, 'BAC', 'BAC-4', 'Backup', '2020-05-20 12:43:48', '2020-05-20 12:12:27');
+insert into logs (LogID, ProjectKey, TicketKey, Type, CreatedAt, UpdatedAt) values (16, 'BAC', 'BAC-5', 'Backup', '2020-02-09 15:07:32', '2020-07-06 14:46:39');
+insert into logs (LogID, ProjectKey, TicketKey, Type, CreatedAt, UpdatedAt) values (17, 'BAC', 'BAC-6', 'Backup', '2020-06-06 03:51:50', '2020-06-30 22:41:55');
+insert into logs (LogID, ProjectKey, TicketKey, Type, CreatedAt, UpdatedAt) values (18, 'BAC', 'BAC-7', 'Backup', '2020-03-02 14:28:55', '2020-09-01 17:24:00');
+insert into logs (LogID, ProjectKey, TicketKey, Type, CreatedAt, UpdatedAt) values (19, 'BAC', 'BAC-8', 'Backup', '2019-12-22 14:08:23', '2020-11-05 23:24:04');
+insert into logs (LogID, ProjectKey, TicketKey, Type, CreatedAt, UpdatedAt) values (20, 'BAC', 'BAC-9', 'Backup', '2019-11-30 19:09:14', '2020-09-12 03:07:58');
+insert into logs (LogID, ProjectKey, TicketKey, Type, CreatedAt, UpdatedAt) values (21, 'BAC', 'BAC-10', 'Backup', '2020-05-27 06:41:58', '2020-11-27 12:33:28');
+insert into logs (LogID, ProjectKey, TicketKey, Type, CreatedAt, UpdatedAt) values (22, 'BAC', 'BAC-11', 'Backup', '2020-09-19 20:03:43', '2020-03-24 07:08:43');
+insert into logs (LogID, ProjectKey, TicketKey, Type, CreatedAt, UpdatedAt) values (23, 'BAC', 'BAC-12', 'Backup', '2019-12-30 21:57:59', '2019-12-27 13:40:23');

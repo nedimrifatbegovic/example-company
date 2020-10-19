@@ -1,0 +1,1 @@
+insert into user (UserID, FirstName, LastName, Email, UserGroupID, Title, CreatedAt, UpdatedAt) values (1, 'Bondie', 'Collete', 'bcollete0@gizmodo.com', 1, 'Executive', '2020-04-18 03:29:57', '2020-09-15 11:02:57');
